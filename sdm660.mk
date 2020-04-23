@@ -22,7 +22,7 @@
 #
 
 # Inherit proprietary files
-$(call inherit-product, vendor/xiaomi/sdm660-common/sdm660-common-vendor.mk)
+$(call inherit-product, vendor/xiaomi/whyred/whyred-vendor.mk)
 
 COMMON_PATH := device/xiaomi/sdm660-common
 
